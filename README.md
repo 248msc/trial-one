@@ -1,5 +1,4 @@
 # trial-one
 first repositry
 
-ZK
-running into github
+add matlab code
